@@ -25,7 +25,9 @@
           </p>
         {% endif %}
 
+        {% if site.desc %}
         <p>{{ site.description }}</p>
+        {% endif %}
 
         <ul class="social-list">
           <li><a href="{{ site.googlescholar }}" target="_blank"><span class="fas fa-graduation-cap fa-fw"></span><span> My Google Scholar</span></a></li>
@@ -33,7 +35,9 @@
           <li><a href="{{ site.github.owner_url }}" target="_blank"><span class="fab fa-github fa-fw"></span><span> My Github Profile</span></a></li>
         </ul>
         <hr>
-        {% include news.html %}
+        {% if site.news %}
+          {% include news.html %}
+        {% endif %}
       </header>
       <section>
 

@@ -2,6 +2,8 @@ title: Kamonphop Srisopha
 logo: /assets/img/profilepic.jpg
 show_downloads: false
 google_analytics: true
+news: false
+desc: false
 theme: jekyll-theme-minimal
 url: "kamonphop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 googlescholar: https://scholar.google.com/citations?user=EPFr0_sAAAAJ&hl=en
