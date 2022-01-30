@@ -1,0 +1,26 @@
+.social-list {
+  list-style: none;
+  font-size: 0.9rem;
+  margin-left: 0;
+  margin-top: 25px;
+  padding-left: 0px;
+}
+.social-list a:hover {
+  text-decoration: none;
+}
+
+.interest-tag {
+  display: inline-block;
+  color: #fff;
+  background-color: #909090;
+  border-color: #909090;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.8rem;
+  border-radius: 0.2rem;
+  margin-top: 0.2rem;
+}
+.interest-tag:hover {
+  color: #fff;
+  background-color: #5c636a;
+  border-color: #565e64;
+}
