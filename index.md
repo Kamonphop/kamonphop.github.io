@@ -23,7 +23,7 @@ Check out my [Google Scholar profile](https://scholar.google.com/citations?user=
 
 ## Education
 
-<!-- <span class="fas fa-graduation-cap fa-fw"></span> --><span style="color:black;"> **2016 - present**: Doctor of Philosophy (Ph.D.) Candidate in Computer Science</span><br />
+<!-- <span class="fas fa-graduation-cap fa-fw"></span> --><span style="color:black;"> **2016 - 2022**: Doctor of Philosophy (Ph.D.) in Computer Science</span><br />
 <span style="font-size: .85rem">University of Southern California, Los Angeles, California, USA<br />
 Advisor: Dr. Barry Boehm<span>
 
